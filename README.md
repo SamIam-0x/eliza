@@ -160,3 +160,9 @@ pnpm install --include=optional sharp
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=elizaos/eliza&type=Date)](https://star-history.com/#elizaos/eliza&Date)
+
+## Environment Setup
+1. Copy the example environment files:   ```bash
+   cp .env.production.example .env.production
+   cp env_vars.json.example env_vars.json   ```
+2. Update the files with your API keys and settings
